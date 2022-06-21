@@ -1,0 +1,25 @@
+span{
+    font-weight: 900;
+}
+
+h1{
+    text-align: center;
+    padding: 12px;
+    background-color: #8db1c3;
+    color: white;
+}
+h3{
+    background-color: #8db1c3;
+    color: white;
+}
+
+div{
+    border: rgb(196, 193, 193) 2px solid;
+    padding: 10px;
+    text-align: center;
+    margin: 175px;
+}
+
+p{
+    text-align: left;
+}
